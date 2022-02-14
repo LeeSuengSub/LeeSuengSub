@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=username)] (Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username)
+(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?LeeSuengSub=LeeSuengSub)]
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LeeSuengSub=LeeSuengSub)
 
-출처: https://dalseobi.tistory.com/27 [달에 앉아있는 서비]
 <!--
 **LeeSuengSub/LeeSuengSub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
