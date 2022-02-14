@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-(Github Stat) [![LeeSuengSub's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSuengSub)]
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub)
+(Github Stat)
+[![LeeSuengSub's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSuengSub)]
+(Most Used Language)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub)
 
 
 
