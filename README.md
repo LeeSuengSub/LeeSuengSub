@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+(Github Stat) [![LeeSuengSub's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSuengSub)]
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub)
 
-(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?LeeSuengSub=LeeSuengSub)]
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LeeSuengSub=LeeSuengSub)
+
 
 <!--
 **LeeSuengSub/LeeSuengSub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
