@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-
+<align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&layout=compact&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSuengSub&theme=monokai&show_icons=monokai)
 
