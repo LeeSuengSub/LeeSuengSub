@@ -2,7 +2,7 @@
 ---
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&layout&theme=tokyonight
 )
 <!-- layout& -->
 
