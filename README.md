@@ -12,9 +12,10 @@
 <div style= "display: flex">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&layout=compact&theme=tokyonight)
-<!-- layout& -->
+
 <a href="https://opgc.me/#/users/LeeSuengSub" target="_blank"><img src="https://api.opgc.me/githubs/users/LeeSuengSub/tag/?theme=basic" /></a>
-  
+
+</div>
   
 <!--
 **LeeSuengSub/LeeSuengSub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
