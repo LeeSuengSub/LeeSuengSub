@@ -11,7 +11,7 @@
 <div style= "display: flex">
 
 <a href="https://opgc.me/#/users/LeeSuengSub" target="_blank"><img src="https://api.opgc.me/githubs/users/LeeSuengSub/tag/?theme=basic" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&layout=compact&theme=white)
 
 </div>
 </div>
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
