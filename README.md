@@ -11,8 +11,8 @@
 
 <div style= "display: flex">
 
-<a href="https://opgc.me/#/users/LeeSuengSub" target="_blank"><img src="https://api.opgc.me/githubs/users/LeeSuengSub/tag/?theme=basic" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&layout=compact&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSuengSub&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&theme=dark)
 
 </div>
 </div>
