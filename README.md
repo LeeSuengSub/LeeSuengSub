@@ -10,7 +10,7 @@
 
 <div style= "display: flex">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlzm2522)](https://solved.ac/zlzm2522/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlzm2522)](https://solved.ac/zlzm2522/) -->
 
 </div>
 </div>
