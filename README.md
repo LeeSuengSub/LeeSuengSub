@@ -10,7 +10,8 @@
 
 <div style= "display: flex">
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zlzm2522)](https://solved.ac/zlzm2522/) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSuengSub&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&theme=dark)
 
 </div>
 </div>
