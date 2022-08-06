@@ -14,7 +14,7 @@
 
 ---
 
-<div style= "display: center">
+<div style= "display: flex">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&theme=dark)
 
