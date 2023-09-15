@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 ---
-
-<div style= "display: flex">
 -->
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSuengSub&theme=dark)
 
 </div>
